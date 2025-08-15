@@ -51,13 +51,7 @@ This analysis revealed that mall customers naturally segment into **five distinc
 ```bash
 .
 │   └── Mall_Customers.csv               # Main dataset
-│   └── mall_customer_segmentation.ipynb # Main analysis notebook
-├── visualizations/
-│   ├── elbow_method.png                 # Optimal clusters determination
-│   ├── customer_segments_kmeans.png     # K-Means clustering results
-│   ├── customer_segments_dbscan.png     # DBSCAN clustering results
-│   ├── spending_analysis.png            # Customer spending profiles
-│   └── cluster_profiles/                # Detailed segment visualizations
+│   └── .ipynb # Main analysis notebook
 └── README.md
 ```
 
